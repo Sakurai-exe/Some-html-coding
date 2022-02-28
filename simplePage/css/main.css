@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background: url("../pics/126438.jpeg");
+  background-size: cover;
+
+  color: white;
+  font-family: helvetica;
+}
+p {
+  font-size: 22px;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+img {
+  border-radius: 100%;
+  width: 20%;
+  padding: 5px;
+}
