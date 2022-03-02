@@ -46,13 +46,13 @@ p {
 }
 
 .first {
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url("../pics/beshparmak.jpg");
 }
 .second {
-  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+  background-image: url("../pics/hamb.jpg");
 }
 .dessert {
-  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+  background-image: url("../pics/pevko.jpg");
 }
 .price {
   float: right;
